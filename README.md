@@ -14,7 +14,5 @@ Welcome to the **Life Cycle AI** project. This repository contains code and reso
 - 🎥 **Demo Video:**  
     - [Watch Demo Video](https://github.com/23ucs599-pixel/life-cycle-ai/releases/download/v1.0.0/demo.vedio.life.cycle.mp4)
   
-## Project Structure
 
-Here is the structure of the project:
 
