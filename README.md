@@ -5,8 +5,8 @@ Welcome to the **Life Cycle AI** project. This repository contains code and reso
 ## Project Files & Links
 
 - 📄 **Project Documentation:**
-    - [PDF Report](project1.pdf)
-    - [Jupyter Notebook: `app.py.ipynb`](app.py.ipynb)
+    - [PDF Report](sakthi.pdf)
+    - [Jupyter Notebook: `app.py.ipynb`](life_cycle.ipynb)
   
 - 🤖 **Live Hugging Face Deployment:**  
     - [Life Cycle AI on Hugging Face](https://huggingface.co/spaces/23ucs599-pixel/life-cycle-ai)
